@@ -26,14 +26,13 @@ public class SolutionBFS {
 
         while (!leaves.isEmpty()) {
             List<Integer> newLeaves = new ArrayList<>();
-            for (int i = 0; i < leaves.size(); i++) {
-                int leave = leaves.get(i);
+            for (int leave : leaves) {
                 int next = adj.get(leave).iterator().next();
                 adj.get(leave).remove(next);
                 adj.get(next).remove(leave);
                 connections.remove(Arrays.asList(Math.min(leave, next), Math.max(leave, next)));
                 if (adj.get(next).size() == 1) {
-                    leaves.add(next);
+                    newLeaves.add(next);
                 }
             }
             leaves = newLeaves;

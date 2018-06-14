@@ -12,14 +12,14 @@ class Solution {
             if (colors[i] != -1) {
                 continue;
             }
-            if (!dfsAssign(graph, colors, i, 0)) {
+            if (!bfsAssign(graph, colors, i, 0)) {
                 return false;
             }
         }
         return true;
     }
 
-    public boolean dfsAssign(int[][] graph, int[] colors, int index, int color) {
+    public boolean bfsAssign(int[][] graph, int[] colors, int index, int color) {
         if (colors[index] != color) {
             // Already assigned
             if (colors[index] != -1) {
@@ -29,7 +29,7 @@ class Solution {
             colors[index] = color;
             // Assign child
             for (int next : graph[index]) {
-                if (!dfsAssign(graph, colors, next, 1 - color)) {
+                if (!bfsAssign(graph, colors, next, 1 - color)) {
                     return false;
                 }
             }
