@@ -28,6 +28,7 @@ public class Solution {
         return node;
     }
 
+    // Not correct
     private void union(int a, int b) {
         parents[a] = b;
     }
