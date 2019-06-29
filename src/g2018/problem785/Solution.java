@@ -1,4 +1,4 @@
-package problem785;
+package g2018.problem785;
 
 class Solution {
     public boolean isBipartite(int[][] graph) {

@@ -1,4 +1,4 @@
-package problem204;
+package g2018.problem204;
 
 import java.util.Arrays;
 

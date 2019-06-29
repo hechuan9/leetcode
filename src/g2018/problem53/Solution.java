@@ -1,4 +1,4 @@
-package problem53;
+package g2018.problem53;
 
 class Solution {
     public int maxSubArray(int[] nums) {

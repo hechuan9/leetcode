@@ -1,4 +1,4 @@
-package problem242;
+package g2018.problem242;
 
 class Solution {
     public boolean isAnagram(String s, String t) {

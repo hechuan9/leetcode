@@ -1,4 +1,4 @@
-package problem684;
+package g2018.problem684;
 
 public class Solution {
     private int[] parents;

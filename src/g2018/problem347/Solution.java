@@ -1,4 +1,4 @@
-package problem347;
+package g2018.problem347;
 
 
 import java.util.*;

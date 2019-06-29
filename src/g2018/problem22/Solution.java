@@ -1,4 +1,4 @@
-package problem22;
+package g2018.problem22;
 
 import java.util.ArrayList;
 import java.util.List;

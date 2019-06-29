@@ -1,4 +1,4 @@
-package problem8;
+package g2018.problem8;
 
 class Solution {
     public int myAtoi(String str) {

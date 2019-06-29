@@ -1,4 +1,4 @@
-package problem28;
+package g2018.problem28;
 
 class Solution {
     public int strStr(String haystack, String needle) {

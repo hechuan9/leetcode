@@ -1,4 +1,4 @@
-package problem142;
+package g2018.problem142;
 
 import support.ListNode;
 

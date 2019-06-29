@@ -1,4 +1,4 @@
-package problem169;
+package g2018.problem169;
 
 class Solution {
     public int majorityElement(int[] nums) {

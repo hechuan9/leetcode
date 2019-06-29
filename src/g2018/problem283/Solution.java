@@ -1,4 +1,4 @@
-package problem283;
+package g2018.problem283;
 
 class Solution {
     public void moveZeroes(int[] nums) {

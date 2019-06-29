@@ -1,4 +1,4 @@
-package problem62;
+package g2018.problem62;
 
 class MathSolution {
     public int uniquePaths(int m, int n) {

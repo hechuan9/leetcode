@@ -1,4 +1,4 @@
-package problem287;
+package g2018.problem287;
 
 class Solution {
     public int findDuplicate(int[] nums) {

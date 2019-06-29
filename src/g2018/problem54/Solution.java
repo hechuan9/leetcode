@@ -1,4 +1,4 @@
-package problem54;
+package g2018.problem54;
 
 
 import java.util.LinkedList;

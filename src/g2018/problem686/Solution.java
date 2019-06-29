@@ -1,4 +1,4 @@
-package problem686;
+package g2018.problem686;
 
 class Solution {
     public int repeatedStringMatch(String a, String b) {

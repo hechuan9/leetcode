@@ -1,4 +1,4 @@
-package problem380;
+package g2018.problem380;
 
 import java.util.ArrayList;
 import java.util.HashMap;

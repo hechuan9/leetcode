@@ -1,4 +1,4 @@
-package problem79;
+package g2018.problem79;
 
 class Solution {
     public boolean exist(char[][] board, String word) {

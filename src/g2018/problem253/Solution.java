@@ -1,4 +1,4 @@
-package problem253;
+package g2018.problem253;
 
 import support.Interval;
 

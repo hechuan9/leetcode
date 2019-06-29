@@ -1,4 +1,4 @@
-package problem166;
+package g2018.problem166;
 
 import java.util.HashMap;
 import java.util.Map;

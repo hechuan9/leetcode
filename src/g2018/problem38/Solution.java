@@ -1,4 +1,4 @@
-package problem38;
+package g2018.problem38;
 
 class Solution {
     public String countAndSay(int n) {

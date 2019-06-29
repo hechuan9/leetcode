@@ -1,4 +1,4 @@
-package problem268;
+package g2018.problem268;
 
 class Solution {
     public int missingNumber(int[] nums) {

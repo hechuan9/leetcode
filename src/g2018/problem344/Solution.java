@@ -1,4 +1,4 @@
-package problem344;
+package g2018.problem344;
 
 class Solution {
     public String reverseString(String s) {

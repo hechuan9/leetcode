@@ -1,4 +1,4 @@
-package problem122;
+package g2018.problem122;
 
 class Solution {
     public int maxProfit(int[] prices) {

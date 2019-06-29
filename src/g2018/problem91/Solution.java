@@ -1,4 +1,4 @@
-package problem91;
+package g2018.problem91;
 
 // Watch https://www.youtube.com/watch?v=yKQnqmb9wiU For more explanation
 class Solution {

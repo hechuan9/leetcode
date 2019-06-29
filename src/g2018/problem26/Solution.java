@@ -1,4 +1,4 @@
-package problem26;
+package g2018.problem26;
 
 class Solution {
     public int removeDuplicates(int[] nums) {

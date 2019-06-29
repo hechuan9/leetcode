@@ -1,4 +1,4 @@
-package problem50;
+package g2018.problem50;
 
 class Solution {
     public double myPow(double x, int n) {

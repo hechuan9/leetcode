@@ -1,7 +1,6 @@
-package problem118;
+package g2018.problem118;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 class Solution {

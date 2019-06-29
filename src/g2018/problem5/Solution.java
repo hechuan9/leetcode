@@ -1,4 +1,4 @@
-package problem5;
+package g2018.problem5;
 
 class Solution {
     public String longestPalindrome(String s) {

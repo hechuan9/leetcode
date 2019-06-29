@@ -1,4 +1,4 @@
-package problem49;
+package g2018.problem49;
 
 import java.util.HashMap;
 import java.util.LinkedList;

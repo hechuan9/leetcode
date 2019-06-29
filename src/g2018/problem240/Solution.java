@@ -1,4 +1,4 @@
-package problem240;
+package g2018.problem240;
 
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {

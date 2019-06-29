@@ -1,4 +1,4 @@
-package problem171;
+package g2018.problem171;
 
 class Solution {
     public int titleToNumber(String s) {

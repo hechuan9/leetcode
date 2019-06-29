@@ -1,8 +1,4 @@
-package problem66;
-
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Stack;
+package g2018.problem66;
 
 class Solution {
     public int[] plusOne(int[] digits) {

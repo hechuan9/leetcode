@@ -1,4 +1,4 @@
-package problem55;
+package g2018.problem55;
 
 class Solution {
     public boolean canJump(int[] nums) {

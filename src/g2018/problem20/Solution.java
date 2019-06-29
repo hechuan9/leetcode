@@ -1,4 +1,4 @@
-package problem20;
+package g2018.problem20;
 
 import java.util.Stack;
 

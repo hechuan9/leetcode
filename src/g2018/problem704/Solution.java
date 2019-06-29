@@ -1,4 +1,4 @@
-package problem704;
+package g2018.problem704;
 
 class Solution {
     public int search(int[] nums, int target) {

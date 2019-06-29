@@ -1,4 +1,4 @@
-package problem277;
+package g2018.problem277;
 
 
 public class Solution {

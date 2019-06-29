@@ -1,4 +1,4 @@
-package problem324;
+package g2018.problem324;
 
 import java.util.Random;
 

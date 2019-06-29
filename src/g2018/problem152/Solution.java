@@ -1,4 +1,4 @@
-package problem152;
+package g2018.problem152;
 
 class Solution {
     public int maxProduct(int[] nums) {

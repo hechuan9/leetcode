@@ -1,4 +1,4 @@
-package problem7;
+package g2018.problem7;
 
 class Solution {
     public int reverse(int x) {

@@ -1,4 +1,4 @@
-package problem200;
+package g2018.problem200;
 
 import java.util.HashSet;
 import java.util.Set;

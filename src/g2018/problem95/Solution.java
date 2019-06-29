@@ -1,4 +1,4 @@
-package problem95;
+package g2018.problem95;
 
 import support.TreeNode;
 

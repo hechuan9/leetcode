@@ -1,4 +1,4 @@
-package problem326;
+package g2018.problem326;
 
 class Solution {
     public boolean isPowerOfThree(int n) {

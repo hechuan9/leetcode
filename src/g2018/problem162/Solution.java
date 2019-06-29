@@ -1,4 +1,4 @@
-package problem162;
+package g2018.problem162;
 
 class Solution {
     public int findPeakElement(int[] nums) {

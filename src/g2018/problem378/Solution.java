@@ -1,4 +1,4 @@
-package problem378;
+package g2018.problem378;
 
 import java.util.PriorityQueue;
 
