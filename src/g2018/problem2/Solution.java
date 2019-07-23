@@ -2,6 +2,9 @@ package g2018.problem2;
 
 import support.ListNode;
 
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
@@ -24,3 +27,4 @@ class Solution {
         return dummy.next;
     }
 }
+
