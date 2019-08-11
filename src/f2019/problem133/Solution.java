@@ -37,7 +37,7 @@ class Solution {
             }
         }
 
-        return node;
+        return map.get(node);
 
     }
 }

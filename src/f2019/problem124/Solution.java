@@ -17,6 +17,6 @@ class Solution {
         int right = Math.max(0, inorder(node.right));
         int max = left + right + node.val;
         res = Math.max(res, max);
-        return max;
+        return Math.max(left, right) + node.val;
     }
 }

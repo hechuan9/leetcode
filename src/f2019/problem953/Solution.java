@@ -9,7 +9,6 @@ class Solution {
             map[order.charAt(i) - 'a'] = i;
         }
 
-
         for (int i = 0; i < words.length - 1; i++) {
             if (!word1BeforeWord2(words[i], words[i+1], map)) return false;
         }
